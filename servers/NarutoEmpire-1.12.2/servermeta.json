@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/NaaguYT/NarutoEmpireUtils/main/schemas/ServerMetaSchema.schema.json",
+  "$schema": "file:///E:/Fuck/Nebula/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
     "name": "NarutoEmpire (Minecraft 1.12.2)",
